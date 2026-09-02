@@ -13,7 +13,7 @@ Normal mode:
 Type characters = transmit Morse
 [ / ]           = decrease / increase WPM
 TAB             = settings
-FN + BACKSPACE       = delete last character
+FN + BACKSPACE  = delete last character
 
 Menu mode:
 UP / DOWN        = select item
